@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #fffaee;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #704d29;
+	background-image: url(images/flag-logo4.gif);
+	background-repeat: no-repeat;
+	background-position: center 20px;
+}
+#about_wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#musashinologo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 318px;
+}
+#header {
+	margin-bottom: 20px;
+	padding-top: 120px;
+}
+#gnavi {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	height: 49px;
+}
+#gnavi li {
+	float: left;
+	list-style-type: none;
+}
+#about_mainphoto {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+#about_titile {
+	width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+	height: 209px;
+}
+#about_title h2{
+	font-size:28px;
+}
+.musashinokun {
+	float: left;
+}
+#about_titile h2 {
+	padding-left: 130px;
+	width: 570px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+}
+.musahino_hoiku {
+	width: 570px;
+	padding-left: 130px;
+	font-size: 19px;
+	line-height: 30px;
+}
+#about_mainphoto img {
+	position: absolute;
+	left: 0;
+    top: 30px;
+}
+#footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	margin-top: 30px;
+
+}
+#line {
+	width:960px;
+}
+#logo_wrapper {
+	width: 650px;
+	padding-left: 50px;
+	float: left;
+}
+#footer_logo {
+	width: 360px;
+	float: left;
+}
+#footer_address {
+	line-height: 28px;
+	font-size: 20px;
+	float: right;
+}
+ul {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+.page_top {
+	height: 140px;
+	width: 140px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+#about_contentswrapper {
+	margin-top: 30px;
+}
+#musashino_kids {
+	margin-top: 50px;
+}
+a:hover img{
+    opacity:0.6;
+    -moz-opacity:0.6;
+    filter:alpha(opacity = 50);
+}
+.img-block {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}

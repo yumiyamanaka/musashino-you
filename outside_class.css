@@ -1,0 +1,353 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #fffaee;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #704d29;
+	background-image: url(images/flag-logo4.gif);
+	background-repeat: no-repeat;
+	background-position: center 20px;
+}
+#outside_class_wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#musashinologo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 318px;
+}
+#header {
+	margin-bottom: 20px;
+	padding-top: 120px;
+}
+#gnavi {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	height: 49px;
+}
+#gnavi li {
+	float: left;
+	list-style-type: none;
+}
+#outside_class_mainphoto {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+#contentswrapper {
+	padding-top: 30px;
+}
+#outside_class_titile {
+	width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+	height: 209px;
+}
+.musashinokun {
+	float: left;
+}
+#outside_class_titile h2 {
+	font-size:28px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+	text-align: center;
+}
+.shiritsu {
+	width: 600px;
+	padding-left: 100px;
+	font-size: 19px;
+	line-height: 30px;
+	text-align: center;
+}
+#footer_bus li {
+	float: left;
+}
+#outside_class_maincontents {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#outside_class_mainphoto img {
+	position: absolute;
+	left: 0;
+    top: 30px;
+}
+#footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+}
+#line {
+	width:960px;
+}
+#logo_wrapper {
+	width: 650px;
+	padding-left: 50px;
+	float: left;
+}
+#footer_logo {
+	width: 360px;
+	float: left;
+}
+#footer_address {
+	line-height: 28px;
+	font-size: 20px;
+	float: right;
+}
+ul {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+.page_top {
+	height: 140px;
+	width: 140px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+#outside_class_contents .soccer {
+	height: 300px;
+	width: 960px;
+}
+.soccer_club {
+	height: 300px;
+	width: 500px;
+	position: absolute;
+}
+#soccer_info tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#soccer_info th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#soccer_info td {
+	font-weight: normal;
+	text-align: left;
+	width: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+table, td, th {
+	border: 1px ridge #704d29;
+}
+#soccer_hiyou tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#soccer_photo {
+	float: left;
+	width: 300px;
+	margin-top: 0px;
+	height:560px;
+}
+#shintaisou {
+	clear: right;
+}
+#sportsclub {
+	clear: left;
+}
+#shintaisounaiyou p {
+	float: left;
+}
+#syuuji {
+	clear: left;
+}
+#soccer_hiyou th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#soccer {
+	margin-top: 30px;
+}
+#sportsclub {
+	padding-top: 50px;
+}
+#shintaisou {
+	padding-top: 50px;
+}
+#syuuji {
+	padding-top: 50px;
+}
+#soccer_hiyou td {
+	font-weight: normal;
+	text-align: left;
+	width: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#shintaisou_hiyou tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#shintaisou_photo {
+	float: left;
+	width: 480px;
+	margin-top: 0px;
+	height: 400px;
+}
+#shintaisou_info tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#shintaisou_info th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#shintaisou_info td {
+	font-weight: normal;
+	text-align: left;
+	width: 350px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_hiyou tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_photo {
+	float: right;
+	width: 280px;
+	margin-top: 0px;
+	height: 300px;
+}
+#sportsclub_hiyou th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_hiyou td {
+	font-weight: normal;
+	text-align: left;
+	width: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_info tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_info th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#sportsclub_info td {
+	font-weight: normal;
+	text-align: left;
+	width: 250px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#syuuji_hiyou tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#syuuji_photo {
+	float: right;
+	width: 480px;
+	margin-top: 0px;
+	height: 400px;
+}
+#syuuji_info tr {
+	font-weight: normal;
+	text-align: left;
+	width: 120px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#syuuji_info th {
+	font-weight: normal;
+	text-align: left;
+	width: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+#syuuji_info td {
+	font-weight: normal;
+	text-align: left;
+	width: 350px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+a:hover img{
+    opacity:0.6;
+    -moz-opacity:0.6;
+    filter:alpha(opacity = 50);
+}
+.img-block {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}

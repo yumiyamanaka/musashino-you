@@ -1,0 +1,291 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #fffaee;
+	background-image: url(images/flag-logo4.gif);
+	background-repeat: no-repeat;
+	background-position: center 20px;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #704d29;
+}
+#wrapper {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	padding-left: 0px;
+}
+ul {
+	margin: 0 0 0 1em;
+	padding: 0;
+}
+#gnavi {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	height: 49px;
+}
+li {
+	list-style-type: none;
+}
+#gnavi li {
+	float: left;
+}
+#mainphoto {
+	margin-right: auto;
+	margin-left: auto;
+	height: 470px;
+	width: 800px;
+}
+#musashino_bubble {
+	margin-top: -110px;
+	margin-left: 20px;
+	height: 167px;
+	width: 122px;
+}
+#boy_girl {
+	margin-top: -170px;
+	float: right;
+	position: relative;
+}
+#maincontents {
+	height: 560px;
+	width: 960px;
+	margin-top: 20px;
+	background-image: url(images/mainphoto_bg.gif);
+	margin-right: auto;
+	margin-left: auto;
+}
+#mainphoto {
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 780px;
+    height: 458px;
+    position: relative;
+}
+ #mainphoto img {
+	top: 0;
+	left: 0;
+	position: absolute;
+}
+#musashino_HP {
+	width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 50px;
+	height: 209px;
+}
+h2{
+	font-size:28px;
+}
+.musashinokun {
+	float: left;
+}
+#musashino_HP h2 {
+	padding-left: 130px;
+	width: 570px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+}
+.shiritsu {
+	width: 570px;
+	padding-left: 130px;
+	font-size: 19px;
+	line-height: 30px;
+}
+#linkwrapper {
+	width: 840px;
+	padding-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 300px;
+}
+#linkwrapper h2 {
+	width: 330px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#shisetsu {
+	width: 400px;
+	float: left;
+}
+#hiyoko {
+	width: 400px;
+	float: right;
+}
+#shisetsu h2 {
+	width: 150px;
+}
+#pashalife {
+	width: 840px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	padding-top: 50px;
+	height: 350px;
+}
+#pashalife p a img {
+	border: 8px solid #bb998b;
+	border-radius: 10px;
+	margin-left: 60px;
+	width: 600px;
+}
+#pashalife_text {
+	width: 145px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#address {
+	margin-top: 80px;
+	margin-bottom: 40px;
+	line-height: 20px;
+}
+#shisetsuphoto {
+	border: 8px solid #bb998b;
+	height: 190px;
+	width: 382px;
+	border-radius: 10px;
+}
+#hiyokophoto {
+	border: 8px solid #bb998b;
+	float: right;
+	height: 190px;
+	width: 382px;
+	border-radius: 10px;
+	margin-top: 0px;
+}
+#access {
+	width: 870px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	height: 600px;
+	padding-top: 30px;
+}
+#access_text {
+	margin-right: auto;
+	margin-left: auto;
+	width: 380px;
+	margin-bottom: 50px;
+}
+#address_wrapper {
+	height: 400px;
+	width: 200px;
+	float: left;
+}
+#map {
+	float: right;
+	height: 400px;
+	width: 640px;
+}
+#footer_bus li {
+	float: left;
+}
+#footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+}
+#line {
+	width:960px;
+}
+#footer_logo {
+	width: 360px;
+	float: left;
+}
+#logo_wrapper {
+	width: 650px;
+	padding-left: 50px;
+	float: left;
+}
+#footer_address {
+	line-height: 28px;
+	font-size: 20px;
+	float: right;
+}
+.page_top {
+	height: 140px;
+	width: 140px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 318px;
+}
+#header {
+	margin-bottom: 20px;
+	padding-top: 120px;
+}
+#contents {
+	width: 840px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 70px;
+}
+.newscontents li h3 {
+	display: inline-block;
+	padding-left: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 18px;
+	font-weight: normal;
+}
+#news {
+	float: left;
+}
+#news_text {
+	width: 115px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+}
+ul.newscontents {
+	list-style-type: none;
+	width: 560px;
+	height: 10em;
+	overflow: auto;
+	border: 8px solid #ffe4d9;
+	border-radius: 10px;
+	padding-left: 1em;
+	padding-right: 1em;
+	font-size: 16px;
+	background-color: #FFF;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	margin-left: 0px;
+}
+#contents p {
+	float: right;
+	height: 208px;
+	width: 197px;
+	margin-top: -15px;
+}
+#musashinokun-camera {
+	float: left;
+	margin-right: 20px;
+	margin-left: 50px;
+}
+ul.newscontents li {
+	margin-top: 0.3em;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #704d29;
+}
+ul.newscontents a {
+ text-decoration: none;
+}
+a:hover {
+    opacity:0.6;
+    -moz-opacity:0.6;
+    filter:alpha(opacity = 50);
+}
+#hiyoko h2 {
+	width: 340px;
+	margin-right: auto;
+	margin-left: auto;
+}

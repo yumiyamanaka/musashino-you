@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+p{
+		color: #f00 ;	/* 赤色 */
+}
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;　
+}
+#logo h2 {
+	margin-bottom: 0px;
+}
+#logo h1 h2 {
+	font-family: "ヒラギノ丸ゴ ProN W4";
+}
+
+body {
+	background-color: #fffaee;
+}

@@ -1,0 +1,206 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #fffaee;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	color: #704d29;
+	background-image: url(images/flag-logo4.gif);
+	background-repeat: no-repeat;
+	background-position: center 20px;
+}
+#facilities_wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#musashinologo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+#logo {
+	margin-right: auto;
+	margin-left: auto;
+	width: 318px;
+}
+#header {
+	margin-bottom: 20px;
+	padding-top: 120px;
+}
+#gnavi {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	height: 49px;
+}
+#gnavi li {
+	float: left;
+	list-style-type: none;
+}
+#facilities_mainphoto {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+#contentswrapper {
+	padding-top: 30px;
+}
+#facilities_titile {
+	width: 670px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 30px;
+	height: 209px;
+}
+#facilities_titile h2 {
+	font-size:28px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 60px;
+	text-align: center;
+}
+#footer_bus li {
+	float: left;
+}
+#facilities_maincontents {
+	height: 400px;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#facilities_mainphoto img {
+	position: absolute;
+	left: 0;
+    top: 30px;
+}
+.musashinokun {
+	float: left;
+}
+#footer {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+}
+#line {
+	width:960px;
+}
+#logo_wrapper {
+	width: 650px;
+	padding-left: 50px;
+	float: left;
+}
+#footer_logo {
+	width: 360px;
+	float: left;
+}
+#footer_address {
+	line-height: 28px;
+	font-size: 20px;
+	float: right;
+}
+.page_top {
+	height: 140px;
+	width: 140px;
+	float: right;
+	margin-right: 60px;
+	margin-top: 10px;
+}
+a:hover img{
+    opacity:0.6;
+    -moz-opacity:0.6;
+    filter:alpha(opacity = 50);
+}
+.img-block {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+}
+#facilities_contents {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+}
+li {
+	list-style-type: none;
+}
+ul{
+	padding-left: 0px;
+}
+#subphoto li {
+	float: left;
+	margin-bottom: 50px;	
+}
+#subphoto1 {
+	margin-right: 53px;
+	margin-left: 53px;
+}
+.comment {
+	text-align: center;
+	font-size: 20px;
+}
+#subphoto3 {
+	margin-right: 25px;
+	margin-left: 53px;
+}
+#subphoto4 {
+	margin-right: 25px;
+}
+#subphoto11 {
+	font-size: 5px;
+}
+#subphoto6 {
+	margin-right: 25px;
+	margin-left: 53px;
+}
+#busuphoto {
+	float: left;
+}
+#youtienbus li {
+	float: left;
+}
+#youtienbus {
+	clear: left;
+	margin-bottom: 50px;
+	overflow: hidden;
+	width: 680px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#kogatabus {
+	margin-top: 30px;
+}
+#subphoto7 {
+	margin-right: 25px;
+}
+#subphoto9 {
+	margin-right: 25px;
+	margin-left: 53px;
+}
+#subphoto10 {
+	margin-right: 25px;
+}
+#busphoto li {
+	float: left;
+	margin-bottom: 50px;	
+
+}
+#subphoto12 {
+	margin-right: 53px;
+	margin-left: 53px;
+}
+#contentswrapper h3 {
+	margin-right: auto;
+	margin-left: auto;
+	width: 240px;
+	margin-top: 20px;
+}
+#boy-girl {
+	margin-top: 50px;
+	margin-left: 140px;
+}
