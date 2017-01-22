@@ -36,6 +36,7 @@ li {
 	margin-left: auto;
 	height: 470px;
 	width: 800px;
+	z-index: 0
 }
 #musashino_bubble {
 	margin-top: -110px;
@@ -47,6 +48,7 @@ li {
 	margin-top: -170px;
 	float: right;
 	position: relative;
+	z-index: 10;
 }
 #maincontents {
 	height: 560px;
@@ -235,14 +237,19 @@ h2{
 	font-size: 18px;
 	font-weight: normal;
 }
+.newscontents li h3 span {
+	color: #F00;
+	font-weight: bold;
+}
 #news {
 	float: left;
 }
 #news_text {
-	width: 115px;
+	width: 150px;
 	margin-right: auto;
 	margin-left: auto;
 	clear: both;
+	text-align: center;
 }
 ul.newscontents {
 	list-style-type: none;
@@ -285,7 +292,8 @@ a:hover {
     filter:alpha(opacity = 50);
 }
 #hiyoko h2 {
-	width: 340px;
+	width: 400px;
 	margin-right: auto;
 	margin-left: auto;
+	text-align: center
 }
